@@ -5,4 +5,5 @@ This readme file contains all the command pertaining to this project.
 - to list current working directory files: ls ${PWD} (use ls)
 - bring it home: cd ~
 - long format listing: ls -l ${PWD}
+- list all including hidden files: ls -al ${PWD}
 
