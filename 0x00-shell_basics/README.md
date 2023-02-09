@@ -10,3 +10,4 @@ This readme file contains all the command pertaining to this project.
 - create a new directory: mkdir
 - create a new file: touch
 - remove a file: rm
+- remove directory: rmdir
