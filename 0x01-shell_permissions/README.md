@@ -3,3 +3,4 @@ Commands used for this project.
 - whoami
 - chown
 - touch
+- chmod +x
