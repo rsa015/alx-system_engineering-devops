@@ -11,3 +11,4 @@ This readme file contains all the command pertaining to this project.
 - create a new file: touch
 - remove a file: rm
 - remove directory: rmdir
+- move one directory back: cd ..
