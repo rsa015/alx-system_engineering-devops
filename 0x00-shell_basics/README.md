@@ -4,3 +4,5 @@ This readme file contains all the command pertaining to this project.
 - echo "${PWD}": to print current working directory.
 - to list current working directory files: ls ${PWD} (use ls)
 - bring it home: cd ~
+- long format listing: ls -l ${PWD}
+
