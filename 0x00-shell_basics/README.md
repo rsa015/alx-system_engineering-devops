@@ -9,3 +9,4 @@ This readme file contains all the command pertaining to this project.
 - list file digit and also hidden files: ls -anl ${PWD}
 - create a new directory: mkdir
 - create a new file: touch
+- remove a file: rm
