@@ -6,4 +6,4 @@ This readme file contains all the command pertaining to this project.
 - bring it home: cd ~
 - long format listing: ls -l ${PWD}
 - list all including hidden files: ls -al ${PWD}
-
+- list file digit and also hidden files: ls -anl ${PWD}
