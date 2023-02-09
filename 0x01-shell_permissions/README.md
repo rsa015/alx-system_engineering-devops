@@ -4,3 +4,4 @@ Commands used for this project.
 - chown
 - touch
 - chmod +x
+- chmod u+rwx,o+x,g+x ./filename
