@@ -7,3 +7,5 @@ This readme file contains all the command pertaining to this project.
 - long format listing: ls -l ${PWD}
 - list all including hidden files: ls -al ${PWD}
 - list file digit and also hidden files: ls -anl ${PWD}
+- create a new directory: mkdir
+
