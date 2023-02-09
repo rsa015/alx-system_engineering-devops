@@ -14,3 +14,4 @@ This readme file contains all the command pertaining to this project.
 - move one directory back: cd -
 - list everything and sort it: ls -lta
 - get file type: file [dir or file location]
+- symbolic link: ln -s [source_file] [created file] 
