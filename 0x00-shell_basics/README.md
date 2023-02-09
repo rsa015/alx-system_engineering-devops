@@ -12,3 +12,4 @@ This readme file contains all the command pertaining to this project.
 - remove a file: rm
 - remove directory: rmdir
 - move one directory back: cd -
+- list everything and sort it: ls -lta
