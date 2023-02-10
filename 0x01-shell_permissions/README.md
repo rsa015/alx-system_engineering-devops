@@ -5,3 +5,4 @@ Commands used for this project.
 - touch
 - chmod +x
 - chmod u+rwx,o+x,g+x ./filename
+- chmod --reference=some_file another file
