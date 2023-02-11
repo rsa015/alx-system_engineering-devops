@@ -15,4 +15,7 @@ This readme file contains all the command pertaining to this project.
 - list everything and sort it: ls -lta
 - get file type: file [dir or file location]
 - symbolic link: ln -s [source_file] [created file]
-- copy only updated  fuiles: cp -u [files] [destination] 
+- copy only updated  fuiles: cp -u [files] [destination]
+- comma seperated dir: ls -map
+- remove files ending with ~: rm *~
+ 
