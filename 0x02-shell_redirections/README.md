@@ -6,5 +6,5 @@ I/O Redirection
 - cat: cat [dir1] [dir2] to display the content of multiple files
 - tail: to list the last 10 lines of a file
 - head: list the first 10 lines of a file.
-
+- duplicate line: tail -n 1 filename | cat >> filename
 
