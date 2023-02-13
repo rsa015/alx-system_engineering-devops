@@ -4,4 +4,5 @@ I/O Redirection
 - \: escape char
 - cat: to display the content of a file
 - cat: cat [dir1] [dir2] to display the content of multiple files
+- tail: to list the last 10 lines of a file
 
