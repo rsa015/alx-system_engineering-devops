@@ -7,4 +7,5 @@ I/O Redirection
 - tail: to list the last 10 lines of a file
 - head: list the first 10 lines of a file.
 - duplicate line: tail -n 1 filename | cat >> filename
+- find: find file or dir and execute a specific command.
 
