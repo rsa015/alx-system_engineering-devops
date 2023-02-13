@@ -5,4 +5,6 @@ I/O Redirection
 - cat: to display the content of a file
 - cat: cat [dir1] [dir2] to display the content of multiple files
 - tail: to list the last 10 lines of a file
+- head: list the first 10 lines of a file.
+
 
