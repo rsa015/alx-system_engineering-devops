@@ -4,4 +4,6 @@ Shell Variables Expansions
 - say hello to the user: echo "hello, $USER"
 - printenv
 - echo $PATH | tr ":" "\n" | wc -l
+- printenv: list global variable
+- env: list local variables
 
