@@ -6,4 +6,4 @@ Shell Variables Expansions
 - echo $PATH | tr ":" "\n" | wc -l
 - printenv: list global variable
 - env: list local variables
-
+- set: does the job
